@@ -1,0 +1,6 @@
+👏 BatchNorm和LayerNorm
+
+---
+[TOC]
+
+---
