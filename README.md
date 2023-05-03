@@ -53,6 +53,7 @@
 ## 3. 别构
 * [Science | MsbA抑制剂的远端变构抑制机制研究](./File/ScienceMsbA抑制剂的远端变构抑制机制研究.md)
 * [JCIM | 首款蛋白变构分子力场以捕捉变构效应](./File/JCIM首款蛋白变构分子力场以捕捉变构效应.md)
+* [一些关于别构化合物的公众号文章](./File/一些关于别构化合物的公众号文章.md)
 
 ---
 ## 4. 实验技术
@@ -119,6 +120,7 @@
 * [Nature|抗抑郁且不致幻——虚拟文库筛选新型血清素受体激动剂](./File/Nature抗抑郁且不致幻——虚拟文库筛选新型血清素受体激动剂.md)
 * [依赖计算机辅助药物设计技术成功上市的药物](./File/依赖计算机辅助药物设计技术成功上市的药物.md)
 * [bioRxiv | 靶向非经典G蛋白信号通路的抑制剂设计](./File/bioRxiv靶向非经典G蛋白信号通路的抑制剂设计.md)
+* [大环化合物及大环药物](./File/大环化合物及大环药物.md)
 
 ---
 ## 9. AIDD相关方法及进展
@@ -157,6 +159,7 @@
 * [Science|工程化皮肤细菌诱导抗黑色素瘤的抗肿瘤T细胞反应](./File/Science工程化皮肤细菌诱导抗黑色素瘤的抗肿瘤T细胞反应.md)
 * [文献|PD-L1棕榈酰化修饰及相应抑制肽开发](./File/文献PD-L1棕榈酰化修饰及相应抑制肽开发.md)
 * [Nat Mach Intell|基于元学习的AI模型进行抗原-TCR亲和力识别及肿瘤新生抗原免疫原性预测](./File/NatMachIntell基于元学习的AI模型进行抗原-TCR亲和力识别及肿瘤新生抗原免疫原性预测.md)
+* [抗体研发相关](./File/抗体研发相关.md)
 
 ## 14. 历年诺奖成果集
 
@@ -169,6 +172,7 @@
 * [Science | Unsaturated bond recognition leads to biased signal in a fatty acid receptor](./File/Unsaturated_bond_recognition_leads_to_biased_signal_in_a_fatty_acid_receptor.md)
 * [一些值得学习研究思路的文章](./File/一些值得学习研究思路的文章.md)
 * [了解下钟青庐的方法文章](./File/了解下钟青庐的方法文章.md)
+* [Cell | 神经退行性疾病的特征标志](./File/Cell神经退行性疾病的特征标志.md)
 
 ## 17. 大分子设计
 * [Some Advices](./File/Some_Advices.md)
