@@ -9,6 +9,7 @@
 ![](PDB文件解析/PDB文件解析_2022-10-27-22-08-55.png)
 
 ## PDB文件格式说明
+参考：https://blog.chembiosim.com/PDB-file-format/  
 **复制别人的内容作为笔记记录在此**
 ### ATOM 字段
 |列|数据|格式|说明|
