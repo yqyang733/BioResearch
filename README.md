@@ -1,4 +1,4 @@
-👏 药物研发专栏目录
+👏 BioResearch
 
 ---
 [TOC]
