@@ -32,7 +32,8 @@
 * [小分子|新冠病毒木瓜样蛋白酶(nsp3)抑制剂及优化](./File/小分子新冠病毒木瓜样蛋白酶nsp3抑制剂及优化.md)
 * [小分子|新冠病毒小分子抑制剂发现的公众社区](./File/小分子新冠病毒小分子抑制剂发现的公众社区.md)
 * [新冠药物Paxlovid](./File/新冠药物Paxlovid.md)
-* [新冠药物Remdesivir](./File/新冠药物Remdesivir.md)
+* [新冠药物Remdesivir](./File/新冠药物Remdesivir.md)  
+* [新冠相关体系动力学模拟数据文库](./File/新冠相关体系动力学模拟数据文库.md)
 
 ---
 ## 2. 核酸药物
